@@ -6,7 +6,7 @@
 <div display: 'inline-block'> 
   <a href="https://www.instagram.com/erikarosah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href = "mailto:erikarosamg@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/erika-rosa-19a4361b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+  <a href="https://www.linkedin.com/in/erika-rosa-19a4361b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a>  
 </div>
 
@@ -15,7 +15,7 @@
     <img alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
     <img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
     <img alt='Javascript' src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white'>
-    <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+   <!--  <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> -->
 </div>
 
 <br>
