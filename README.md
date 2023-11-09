@@ -15,6 +15,7 @@
     <img alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
     <img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
     <img alt='Javascript' src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white'>
+    <img alt='Node' src='https://img.shields.io/badge/Node%20JS-E34F26?style=for-the-badge&logoColor=white'>
    <!--  <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> -->
 </div>
 
