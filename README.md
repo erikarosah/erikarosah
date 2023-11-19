@@ -1,6 +1,4 @@
-## Olá pessoal, Érika Rosa por aqui! 😉
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&vCenter=true&random=false&width=550&height=60&lines=Hi,+I'm+Érika+<3)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&vCenter=true&random=false&width=550&height=60&lines=Hi,+I'm+Érika)
 
 ## Redes para contato 📨
 <div display: 'inline-block'> 
