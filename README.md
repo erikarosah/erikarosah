@@ -1,5 +1,3 @@
-<img src="https://rootstack.com/static/bbebd51712e30f92bd35b74d8d88d47b/Captura%20de%20pantalla%202023-10-20%20a%20la(s)%2016.26.01.jpg" />
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&vCenter=true&random=false&width=550&height="60&lines=Welcome,+everyone+<3)
 
 ## Redes para contato 📨
