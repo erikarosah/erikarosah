@@ -13,7 +13,6 @@ class SobreMim extends Desenvolvedora {
 class Skills extends Desenvolvedora {
   linguage = ["JavaScript"];
   framework = ["React"];
-  bancoDeDados = ["Postgresql"]
 }
 ```
 
