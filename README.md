@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedora {
 }
 
 class Skills extends Desenvolvedora {
-  linguage = ["JavaScript"];
+  linguagem = ["JavaScript"];
   framework = ["React"];
 }
 ```
